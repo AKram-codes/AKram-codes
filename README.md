@@ -1,60 +1,30 @@
-<h1 align="center">Hi 👋, I'm Akram Mohammad</h1>
-<h3 align="center">AI Engineer | Full-Stack & Flutter Dev | Open-Source Contributor | Hackathon Builder</h3>
+# 💫 About Me:
+💻 I'm an AI Engineering undergrad at PBR Visvodaya Institute of Technology (GPA: 9.0)<br>🔥 Passionate about AI, offline-first systems, and real-world app development<br>💡 I believe in building products that solve real problems, scale efficiently, and help people<br>💬 I'm always open to collaborations in AI, ML, app development, or open source
 
-<p align="center">
-  <a href="mailto:akram.codes24@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/akram-md-690a15339">LinkedIn</a> •
-  <a href="https://github.com/AKram-codes">GitHub</a> •
-  <a href="tel:+916302178526">Call Me</a>
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vzR35a4G) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_brain_dead_6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-md-690a15339) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/akram_codes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akrammoham17816) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akram.codes24@gmail.com) 
 
-🌱 **About Me**
-- 💻 I'm an AI Engineering undergrad at PBR Visvodaya Institute of Technology (GPA: 9.0)
-- 🔥 Passionate about AI, offline-first systems, and real-world app development
-- 💡 I believe in building products that **solve real problems, scale efficiently, and help people**
-- 💬 I'm always open to collaborations in AI, ML, app development, or open source
-
----
-
-🛠️ **Tech Stack**
-- **Languages:** Python, Java, JavaScript, C++, SQL
-- **Frameworks & Tools:** TensorFlow, Keras, OpenCV, MediaPipe, Pandas, Scikit-Learn, React.js, Flutter
-- **Databases:** MongoDB (Certified Developer Associate), MySQL
-- **DevOps/Other:** Git, GitHub, Docker, AWS, VS Code, Jupyter, Google Colab
-
----
-
-🚀 **Projects**
-- 🧠 [Object Detection using YOLO](https://bit.ly/4f2Tq5q)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🚀 **Projects**
+# - 🧠 [Object Detection using YOLO](https://bit.ly/4f2Tq5q)  
   Real-time object classification with YOLOv3/v4 and OpenCV.
 
-- ✋ [Hand Gesture Recognition with MediaPipe](https://bit.ly/4gk1Vda)  
+# - ✋ [Hand Gesture Recognition with MediaPipe](https://bit.ly/4gk1Vda)  
   AI-powered hand gesture interface using Google's MediaPipe.
 
-- 🚗 *The Gradian (in development)*  
+# - 🚗 *The Gradian (in development)*  
   Flutter-based part-time student driver platform for school kids. Features: Google Maps, Firebase Auth, Trust Score System.
 
-- 🌾 *AgriAI Hackathon Project*  
+# - 🌾 *AgriAI Hackathon Project*  
   AI app for farmers combining pest/disease prediction, weather forecast, soil analysis. Offline-first mobile app in Flutter.
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AKram-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AKram-codes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKram-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🏅 **Certifications**
-- ✅ MongoDB Certified Developer Associate – [Verify](https://learn.mongodb.com/c/Qa374AcqQ7eEE34dDuiSvw)
-- 🐍 Scaler Python Course – [Certificate](https://bit.ly/3YvTHZe)
-- 💻 GeeksForGeeks 160 Days DSA Program – [Proof](https://bit.ly/42XtNPh)
-
----
-
-🎯 **Currently Working On**
-- 🔁 Preparing for **BOLT Hackathon**
-- 🧱 Daily growth in **DSA**, **System Design**, and **AI Engineering**
-- 🏋️‍♂️ 5–7 AM Gym Routine as part of my 1% better daily habit
-
----
-
-🌐 **Let's Connect**
-Feel free to reach out if you want to discuss tech, collaborate on a project, or just say hi!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
